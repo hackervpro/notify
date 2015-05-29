@@ -97,9 +97,9 @@ background-size: cover;
 
 #content #big #icon1
 {
-position: relative;
-margin-left:20%;
-margin-top: 1%;
+position: absolute;
+left:20%;
+top: 70%;
 padding: 0px;
 width:3.5%;
 height:8.75%;
@@ -113,9 +113,9 @@ border-radius: 50%;
 
 #content #big #icon2
 {
-position: relative;
-margin-left:25%;
-margin-top: -3.5%;
+position: absolute;
+left:25%;
+top: 70%;
 padding: 0px;
 width:3.5%;
 height:8.75%;
@@ -129,9 +129,9 @@ border-radius: 50%;
 
 #content #big #icon3
 {
-position: relative;
-margin-left: 30%;
-margin-top: -3.5%;
+position: absolute;
+left: 30%;
+top: 70%;
 padding: 0px;
 width:3.5%;
 height:8.75%;
@@ -265,9 +265,9 @@ color: rgba(132,132,132,1);
 #content #three #middle
 {
 
-position: relative;
-margin-top: -35.1%;
-margin-left:33.33%;
+position: absolute;
+top: 0%;
+left:33.33%;
 width:33.34%;
 height:100%;
 background-color: white;
@@ -329,9 +329,9 @@ color: rgba(132,132,132,1);
 
 #content #three #right
 {
-position: relative;
-margin-top: -35.1%;
-margin-left:66.67%;
+position: absolute;
+top: 0%;
+left:66.67%;
 width:33.33%;
 height:100%;
 background-color: white;
@@ -460,9 +460,9 @@ border-radius: 5px 5px 5px 5px;
 {
 position: relative;
 top: -7px;
-left: 250px;
-padding-top: 9px;
-padding-bottom: 9px;
+left: 220px;
+padding-top: 10px;
+padding-bottom: 10px;
 padding-left: 30px;
 width: 80px;
 color: white;
