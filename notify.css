@@ -99,7 +99,7 @@ background-size: cover;
 {
 position: absolute;
 left:20%;
-top: 67%;
+top: 70%;
 padding: 0px;
 width:3.5%;
 height:8.75%;
@@ -115,7 +115,7 @@ border-radius: 50%;
 {
 position: absolute;
 left:25%;
-top: 67%;
+top: 70%;
 padding: 0px;
 width:3.5%;
 height:8.75%;
@@ -131,7 +131,7 @@ border-radius: 50%;
 {
 position: absolute;
 left: 30%;
-top: 67%;
+top: 70%;
 padding: 0px;
 width:3.5%;
 height:8.75%;
@@ -481,10 +481,10 @@ cursor: pointer;
  
 #content #update #videobox
 {
-position: relative;
-margin-top: -26%;
-margin-left: 55%;
-margin-right: 4%;
+position: absolute;
+left: 55%;
+top : 10%;
+width: 40%;
 height:80%;
 
 background-image: url(http://hackedby.hackerv4.5gbfree.com/video.png);
