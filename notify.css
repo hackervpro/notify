@@ -483,13 +483,13 @@ cursor: pointer;
 {
 position: absolute;
 left: 53%;
-top : 30px;
+top : 3%;
 width: 46%;
-height: 305px;
+bottom: 3%;
 border-radius : 10px;
 background-image: url(http://hackedby.hackerv4.5gbfree.com/video.png);
 background-repeat: no-repeat;
-background-size: cover;
+background-size: 100% 100%;
 background-position: 50% 50%;
 }
 
