@@ -483,9 +483,9 @@ cursor: pointer;
 {
 position: absolute;
 left: 53%;
-top : 3%;
-width: 46%;
-bottom: 3%;
+top : 10%;
+right: 2%;
+bottom: 10%;
 border-radius : 10px;
 background-image: url(http://hackedby.hackerv4.5gbfree.com/video.png);
 background-repeat: no-repeat;
