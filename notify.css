@@ -1011,13 +1011,13 @@ bottom:3%;
 height:12%;
 width:96%;
 margin:auto;
-opacity: 0.8;
+opacity: 1;
 }
 
 
 #footer:hover
 {
-opacity: 0.7;
+opacity: 0.9;
 }
 
 
