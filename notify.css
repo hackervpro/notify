@@ -482,14 +482,14 @@ cursor: pointer;
 #content #update #videobox
 {
 position: absolute;
-left: 55%;
+left: 53%;
 top : 30px;
-width: 40%;
-height:80%;
-
+width: 46%;
+height: 305px;
+border-radius : 10px;
 background-image: url(http://hackedby.hackerv4.5gbfree.com/video.png);
 background-repeat: no-repeat;
-background-size: 100% 100%;
+background-size: cover;
 background-position: 50% 50%;
 }
 
